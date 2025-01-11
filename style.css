@@ -191,15 +191,17 @@ background-color:rgba(255, 255, 255, 1);
   }
   .pillar-clr1{
     background-color: rgba(84, 144, 245, 0.2);
+    border: none;
   }
   .pillar-clr2{
     background-color: rgba(198, 228, 214, 1);
-
+    border: none;
   }
 
 
 .pillar-clr3{
     background-color: rgba(247, 235, 207, 1);
+    border: none;
 }
 .person-u{
     background-color: rgba(255, 255, 255, 1);
@@ -269,21 +271,26 @@ width: 1155px;
 .des{
     font-size: 16px;
     font-weight: 600px;
+   
 }
+
+
+
 .opinion select{
   margin-left: 50px;
 }
 .select{
-    width: 152px;
+    width: 140px;
     height: 44px;
     background-color: rgba(198, 228, 214, 1);
-    padding-left: 20px ;
-    
     font-size:14px ;
     font-weight: 500px;
     border-radius: 4px;
+    
+    text-align: center;
   
 }
+
 .title-news{
   font-size: 40px;
   font-weight: bold;
